@@ -90,6 +90,14 @@ Bounce the right component to alert swiping is possible. `onDone` is an optional
 
 Bounce the left component to alert swiping is possible. `onDone` is an optional callback.
 
+#### openRight(onDone)
+
+Programmatically open the right component. `onDone` is an optional callback.
+
+#### openLeft(onDone)
+
+Programmatically open the left component. `onDone` is an optional callback.
+
 ## Example
 
 To run [the example](https://github.com/jshanson7/react-native-swipeable/blob/master/example/swipeable-example.js):
